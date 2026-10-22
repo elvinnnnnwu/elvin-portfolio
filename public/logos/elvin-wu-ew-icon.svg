@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">ELVIN WU — EW icon</title>
+<desc id="desc">Geometric E and W joined along the baseline.</desc>
+<g id="icon" fill="#F1F0EB">
+  <path id="e" d="M68 144H194V188H112V234H184V278H112V324H268V368H68Z"/>
+  <path id="w" d="M210 144H254L286 294L310 224H338L362 294L394 144H438L386 368H348L324 296L300 368H262Z"/>
+</g>
+</svg>

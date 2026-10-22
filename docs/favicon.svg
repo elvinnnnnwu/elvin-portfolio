@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80"><rect width="80" height="80" rx="16" fill="#3657EF"/><path fill="#fff" d="M17 40c0-12 8-20 19-20s18 8 18 20v5H28c1 7 5 10 11 10 4 0 8-1 11-3l3 8c-4 3-10 4-15 4-13 0-21-9-21-24zm11-3h15c-1-5-3-8-7-8s-7 3-8 8z"/><path stroke="#DCEF8A" stroke-width="5" d="m65 22-9 40"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">ELVIN WU — EW icon</title>
+<desc id="desc">Geometric E and W joined along the baseline.</desc>
+<rect width="512" height="512" rx="80" fill="#141618"/><g id="icon" fill="#F1F0EB">
+  <path id="e" d="M68 144H194V188H112V234H184V278H112V324H268V368H68Z"/>
+  <path id="w" d="M210 144H254L286 294L310 224H338L362 294L394 144H438L386 368H348L324 296L300 368H262Z"/>
+</g>
+</svg>

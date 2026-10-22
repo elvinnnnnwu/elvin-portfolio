@@ -1,0 +1,7 @@
+node_modules/
+dist/
+output/
+.openai/
+.codex/
+.env*
+.DS_Store

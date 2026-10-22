@@ -1,0 +1,1 @@
+export function TravelCover(){return <div className="travel-cover"><img src={`${import.meta.env.BASE_URL}assets/tibet-selected-04.webp`} alt="所选04号照片：布达拉宫前的双人旅行照片" loading="lazy"/><div className="travel-cover-copy"><span>PERSONAL JOURNAL / 2026</span><strong>Tibet,<br/><i>with you.</i></strong><p>和你，在西藏</p><small>AN INTERACTIVE TRAVEL ALBUM</small></div></div>}

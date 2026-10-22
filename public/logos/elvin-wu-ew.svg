@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50 160 940 190" role="img" aria-labelledby="title desc">
+<title id="title">ELVIN WU — EW monogram</title>
+<desc id="desc">A shared-base E and W monogram with custom ELVIN WU path lettering.</desc>
+<g transform="translate(24 82) scale(.68)">
+<g id="icon" fill="#F1F0EB">
+  <path id="e" d="M68 144H194V188H112V234H184V278H112V324H268V368H68Z"/>
+  <path id="w" d="M210 144H254L286 294L310 224H338L362 294L394 144H438L386 368H348L324 296L300 368H262Z"/>
+</g>
+</g>
+<g id="wordmark" fill="#F1F0EB">
+  <path id="letter-e" d="M424 218H478V232H440V249H473V263H440V282H478V296H424Z"/>
+  <path id="letter-l" d="M496 218H512V282H548V296H496Z"/>
+  <path id="letter-v" d="M562 218H579L599 275L619 218H636L607 296H591Z"/>
+  <path id="letter-i" d="M654 218H670V296H654Z"/>
+  <path id="letter-n" d="M690 296V218H706L746 269V218H762V296H747L706 244V296Z"/>
+  <path id="letter-w" fill="#BCC4CA" d="M794 218H811L823 269L837 234H851L865 269L877 218H894L874 296H859L844 259L829 296H814Z"/>
+  <path id="letter-u" fill="#BCC4CA" d="M912 218H928V267C928 278 933 283 942 283C951 283 956 278 956 267V218H972V268C972 287 961 298 942 298C923 298 912 287 912 268Z"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220" role="img" aria-label="Elvin Wu"><g id="icon" fill="#F1F0EB" transform="translate(0 45) scale(.27)">
+  <path id="kou" fill-rule="evenodd" d="M144 60H368V228H144ZM180 96V192H332V96Z" />
+  <path id="tian-top" fill="#BCC4CA" d="M112 260H400V296H112Z" />
+  <path id="tian-cross" d="M72 326H440V362H72Z" />
+  <path id="tian-left" d="M240 292H276C272 382 221 427 100 458L88 423C193 397 236 365 240 292Z" />
+  <path id="tian-right" d="M253 347L284 330C315 377 360 407 424 424L413 459C340 440 286 404 253 347Z" />
+</g>
+<g id="wordmark" fill="#F1F0EB" transform="translate(170 80)">
+<path id="letter-e" fill-rule="evenodd" d="M77 45C70 15 56 0 36 0C12 0 0 20 0 47C0 75 14 94 40 94C54 94 67 88 77 77L64 65C57 72 49 76 41 76C28 76 20 68 19 54H78V45ZM20 37C22 24 28 17 37 17C48 17 54 24 57 37Z" />
+<path id="letter-l" d="M94-30H113V91H94Z" />
+<path id="letter-v" d="M127 3H147L168 67L190 3H210L178 91H159Z" />
+<path id="letter-i" d="M226 3H245V91H226ZM225-29H246V-9H225Z" />
+<path id="letter-n" d="M264 3H283V13C292 4 300 0 310 0C329 0 340 13 340 34V91H321V38C321 24 315 18 305 18C296 18 289 23 283 31V91H264Z" />
+<path id="letter-w" d="M376 3H396L412 65L431 3H448L467 65L483 3H503L478 91H458L439 33L420 91H400Z" />
+<path id="letter-u" d="M516 3H535V56C535 70 541 76 551 76C560 76 568 71 574 63V3H593V91H574V81C565 90 556 94 546 94C527 94 516 81 516 60Z" />
+<path id="period" fill="#BCC4CA" d="M612 71H632V91H612Z" />
+</g>
+</svg>
